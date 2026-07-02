@@ -40,3 +40,6 @@ Logging middleware records:
 ## Conclusion
 
 The application provides a clean, responsive, and simple notification dashboard with proper logging and error handling.
+
+
+<video controls src="20260702-0722-58.7989190.mp4" title="Title"></video>
